@@ -1,0 +1,5 @@
+## Creating a pickle file dumping the model in it
+  
+  import pickle
+  
+  pickle.dump(dt,open('loan.pkl','wb'))
